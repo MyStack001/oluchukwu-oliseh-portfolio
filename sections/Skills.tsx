@@ -4,11 +4,21 @@ const skills = [
   "React",
   "Next.js",
   "TypeScript",
+  "JavaScript(ES6+)",
+  "HTML5",
+  "CSS3",
   "Tailwind CSS",
   "Framer Motion",
   "Supabase",
   "Git/GitHub",
   "Figma",
+  "Responsive Design",
+  "Accessibility(WCAG)",
+  "PostgreSQL",
+  "REST APIs",
+  "Authentication & Authorization",
+  "Database Design",
+  
 ]
 
 export default function Skills() {

@@ -8,6 +8,7 @@ type Props = {
   tech: string[]
   github?: string
   live?: string
+  behance?: string
 }
 
 const card = {
@@ -15,7 +16,7 @@ const card = {
   visible: { opacity: 1, y: 0 }
 }
 
-export default function ProjectCard({ title, description, tech, github, live }: Props) {
+export default function ProjectCard({ title, description, tech, github, live, behance }: Props) {
   return (
     <motion.article
       className="border rounded-lg p-6 bg-white shadow-sm"
@@ -36,13 +37,18 @@ export default function ProjectCard({ title, description, tech, github, live }: 
       </div>
       <div className="flex items-center gap-3 mt-4">
         {github && (
-          <Link href={github} target="_blank" className="text-sm text-sky-600">
+          <Link href={github} target="_blank" className="text-sm text-slate-600 hover: underline">
             GitHub
           </Link>
         )}
         {live && (
-          <Link href={live} target="_blank" className="text-sm text-slate-600">
+          <Link href={live} target="_blank" className="text-sm text-slate-600 hover: underline">
             Live
+          </Link>
+        )}
+        {behance && (
+          <Link href={behance} target="_blank" className="text-sm text-slate-600 hover: underline">
+            Behance
           </Link>
         )}
       </div>
