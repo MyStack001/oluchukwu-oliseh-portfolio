@@ -20,7 +20,7 @@ export default function Navbar() {
             </nav>
           </div>
           <div className="hidden md:flex gap-3">
-            <Link href="https://github.com/Shadrach-stack" className="text-sm text-slate-600">
+            <Link href="https://github.com/ShadrachStack" className="text-sm text-slate-600">
               GitHub
             </Link>
             <Link href="https://www.linkedin.com/in/shadrach-obaah/" className="text-sm text-slate-600">
