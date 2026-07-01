@@ -9,7 +9,7 @@ const projects = [
     description:
       "A trade journaling and analytics platform for forex traders built with Next.js and Supabase.",
     tech: ["Next.js", "Supabase", "Tailwind CSS"],
-    github: "https://github.com/ShadrachStack/pipsoul-dashboard",
+    github: "https://github.com/ShadrachStack/pipsoul-dashboard.git",
     live: "https://pipsoul-dashboard.vercel.app/dashboard",
   },
   {
