@@ -26,6 +26,8 @@ const skillCategories = [
       "REST APIs",
       "Authentication & Authorization",
       "Database Design",
+      "Laravel",
+      "Node.js",
     ],
   },
   {

@@ -17,7 +17,7 @@ export default function Hero() {
           </p>
 
           <h1 className="mt-3 text-4xl sm:text-5xl font-extrabold text-slate-900">
-            Shadrach Obaah
+            Oluchukwu Oliseh
           </h1>
 
           <p className="mt-2 text-xl text-slate-700">

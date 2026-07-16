@@ -10,7 +10,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center gap-4">
             <Link href="#" className="text-lg font-semibold text-slate-800">
-              Shadrach Obaah
+              Oluchukwu Oliseh
             </Link>
             <nav className="hidden md:flex gap-4 text-sm text-slate-600">
               <a href="#about">About</a>
@@ -20,13 +20,13 @@ export default function Navbar() {
             </nav>
           </div>
           <div className="hidden md:flex gap-3">
-            <Link href="https://github.com/ShadrachStack" className="text-sm text-slate-600">
+            <Link href="https://github.com/MyStack001" className="text-sm text-slate-600">
               GitHub
             </Link>
-            <Link href="https://www.linkedin.com/in/shadrach-obaah/" className="text-sm text-slate-600">
+            <Link href="https://www.linkedin.com/in/oluchukwu-oliseh/" className="text-sm text-slate-600">
               LinkedIn
             </Link>
-            <Link href="https://www.behance.net/shadrach_obaah" className="text-sm text-slate-600">
+            <Link href="https://www.behance.net/Oluchukwu_Oliseh" className="text-sm text-slate-600">
               Behance
             </Link>
           </div>

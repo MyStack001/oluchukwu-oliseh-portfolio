@@ -7,22 +7,22 @@ const projects = [
   {
     title: "Pipsoul",
     description:
-      "A trade journaling and analytics platform for forex traders built with Next.js and Supabase.",
+      "Built a full-stack trading app with real-time analytics, trade journaling, interactive charts, and performance reporting to empower smarter trading decisions.",
     tech: ["Next.js", "Supabase", "Tailwind CSS"],
-    github: "https://github.com/ShadrachStack/pipsoul-dashboard",
+    github: "https://github.com/MyStack001/pipsoul-dashboard",
     live: "https://pipsoul-dashboard.vercel.app/dashboard",
   },
   {
-    title: "Useoniix",
+    title: "Programmers University",
     description:
-      "A modern web product focused on UI/UX and frontend polish — a design-first frontend project.",
-    tech: ["React", "TypeScript", "Tailwind CSS"],
-    live: "https://useoniix.com/",
+      "Developed a modern, responsive landing page for a full-stack development bootcamp,showcasing programs, pricing, testimonials, and a seamless application experience with a focus on performance and conversion.",
+    tech: ["React", "TypeScript", "Tailwind CSS", "Node.js"],
+    live: "https://theprogrammersuniversity.com/",
   },
   {
     title: "EasyShip",
     description:
-      "A logistics/shipping interface concept focusing on clean UX and tracking experience.",
+      "Engineered a scalable logistics platform with responsive interfaces, real-time shipment management, and streamlined delivery workflows for an efficient shipping experience.",
     tech: ["Next.js", "React", "Tailwind CSS"],
     live: "https://easyship.live/",
   },

@@ -53,7 +53,7 @@ export default function Contact() {
               <p className="text-sm text-slate-500">Email me at</p>
 
               <a
-                href="mailto:obaahshadrach416@gmail.com"
+                href="mailto:oluchukwuoliseh@gmail.com"
                 className="
                   mt-2 inline-block
                   text-xl font-medium text-slate-900
@@ -61,7 +61,7 @@ export default function Contact() {
                   transition
                 "
               >
-                obaahshadrach416@gmail.com
+                oluchukwuoliseh@gmail.com
               </a>
             </div>
 
@@ -71,7 +71,7 @@ export default function Contact() {
             {/* CTA buttons */}
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="mailto:obaahshadrach416@gmail.com"
+                href="mailto:oluchukwuoliseh@gmail.com"
                 className="
                   px-6 py-3 rounded-xl
                   bg-slate-900 text-white
@@ -84,7 +84,7 @@ export default function Contact() {
               </a>
 
               <a
-                href="https://github.com/ShadrachStack"
+                href="https://github.com/MyStack001"
                 target="_blank"
                 className="
                   px-6 py-3 rounded-xl
@@ -98,7 +98,7 @@ export default function Contact() {
               </a>
 
               <a
-                href="https://www.linkedin.com/in/shadrach-obaah/"
+                href="https://www.linkedin.com/in/oluchukwu-oliseh/"
                 target="_blank"
                 className="
                   px-6 py-3 rounded-xl
@@ -111,7 +111,7 @@ export default function Contact() {
                 LinkedIn
               </a>
 <a
-                href="https://www.behance.net/shadrach_obaah"
+                href="https://www.behance.net/Oluchukwu_Oliseh"
                 target="_blank"
                 className="
                   px-6 py-3 rounded-xl
