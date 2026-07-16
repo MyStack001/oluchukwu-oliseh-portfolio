@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Oluchukwu Oliseh — Fullstack Developer",
-  description: "Oluchukwu Oliseh is a Full-Stack Developer specializing in React, Next.js, Node.js,TypeScript, and modern web technologies.",
+  description: "Oluchukwu Oliseh is a Full-Stack Developer specializing in React, Next.js, Node.js, and modern web technologies.",
 };
 
 export default function RootLayout({
@@ -32,7 +32,9 @@ export default function RootLayout({
       <body className="min-h-full flex flex-col bg-slate-50 relative overflow-x-hidden">
 
         {/* 🌈 Ambient background glow */}
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(99,102,241,0.08),transparent_35%),radial-gradient(circle_at_bottom_left,rgba(16,185,129,0.06),transparent_35%)]" />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,
+        rgba(99,102,241,0.08),transparent_35%),radial-gradient(circle_at_bottom_left,
+        rgba(16,185,129,0.06),transparent_35%)]" />
 
         {/* App structure */}
         <div className="relative z-10 flex flex-col min-h-screen">
