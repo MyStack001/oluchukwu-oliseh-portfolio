@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Shadrach Obaah — Frontend Developer & Product Designer",
-  description: "Portfolio — frontend development, UI/UX design, and case studies.",
+  title: "Oluchukwu Oliseh — Fullstack Developer",
+  description: "Oluchukwu Oliseh is a Full-Stack Developer specializing in React, Next.js, Node.js,TypeScript, and modern web technologies.",
 };
 
 export default function RootLayout({
