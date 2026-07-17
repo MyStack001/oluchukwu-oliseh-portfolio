@@ -5,7 +5,7 @@ export default function About() {
     <SectionWrapper id="about">
       <div className="max-w-3xl mx-auto">
         <h2 className="text-2xl font-semibold text-slate-900">About</h2>
-        <p className="mt-4 text-slate-600">I am a Full Stack Developer passionate about building clean, 
+        <p className="mt-4 text-slate-600">I am a Full Stack Product Engineer passionate about building clean, 
           functional, and user-focused web applications. I enjoy transforming ideas into digital experiences
           by combining intuitive front-end design with reliable back-end solutions. My experience spans
           technologies such as React, Next.js, TypeScript CSS, Supabase, and modern development tools that

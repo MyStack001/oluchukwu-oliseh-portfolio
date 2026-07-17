@@ -21,7 +21,7 @@ export default function Hero() {
           </h1>
 
           <p className="mt-2 text-xl text-slate-700">
-            Full Stack Developer
+            Full Stack Product Engineer
           </p>
 
           <p className="mt-4 text-slate-600">
