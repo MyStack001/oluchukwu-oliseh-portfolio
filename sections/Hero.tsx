@@ -30,17 +30,32 @@ export default function Hero() {
             that solve real-world problems.
           </p>
 
-          <div className="mt-6 flex flex-wrap justify-center gap-3 md:justify-start">
-            <a href="#projects">
-              <Button>View Projects</Button>
-            </a>
+          <div className="mt-6 flex flex-col items-center gap-3 md:items-start">
 
-            <a href="#contact">
-              <Button variant="ghost">
-                Contact Me
-              </Button>
-            </a>
-          </div>
+  <div className="flex flex-wrap justify-center gap-3 md:justify-start">
+    <a href="#projects">
+      <Button>View Projects</Button>
+    </a>
+
+    <a href="#contact">
+      <Button variant="ghost">
+        Contact Me
+      </Button>
+    </a>
+  </div>
+
+  <a
+    href="/resume/Oluchukwu_Oliseh_Resume.pdf"
+    download
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <Button variant="ghost">
+      📄 Download Résumé
+    </Button>
+  </a>
+
+</div>
 
         </div>
 
