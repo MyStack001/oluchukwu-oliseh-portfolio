@@ -45,15 +45,16 @@ export default function Hero() {
   </div>
 
   <a
-    href="/resume/Oluchukwu_Oliseh_Full-Stack_Product_Engineer_Resume.pdf"
-    download
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <Button variant="ghost">
-      📄 Download Résumé
-    </Button>
-  </a>
+  href="/resume/Oluchukwu_Oliseh_Full-Stack_Product_Engineer_Resume.pdf"
+  download
+  target="_blank"
+  rel="noopener noreferrer"
+  className="w-full sm:w-auto"
+>
+  <Button variant="ghost" className="w-60 justify-center">
+    📄 Download CV
+  </Button>
+</a>
 
 </div>
 
