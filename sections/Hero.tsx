@@ -45,7 +45,7 @@ export default function Hero() {
   </div>
 
   <a
-    href="/resume/Oluchukwu_Oliseh_Resume.pdf"
+    href="/resume/Oluchukwu_Oliseh_Full-Stack_Product_Engineer_Resume.pdf"
     download
     target="_blank"
     rel="noopener noreferrer"
