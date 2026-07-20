@@ -45,7 +45,7 @@ export default function Hero() {
   </div>
 
   <a
-  href="/resume/Oluchukwu_Oliseh_Full-Stack_Product_Engineer_Resume.pdf"
+  href="/resume/Oluchukwu_Oliseh_Full-Stack_Product_Engineer_CV_2026.pdf"
   download
   target="_blank"
   rel="noopener noreferrer"
@@ -70,7 +70,7 @@ export default function Hero() {
           <div className="relative overflow-hidden rounded-full border border-white/50 bg-white/60 p-2 shadow-1xl backdrop-blur-xl">
             <Image
               src="/profile.jpg"
-              alt="Shadrach Obaah"
+              alt="Oluchukwu Oliseh"
               width={280}
               height={280}
               priority
